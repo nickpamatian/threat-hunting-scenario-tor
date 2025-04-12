@@ -141,7 +141,6 @@ DeviceNetworkEvents
 - **Timestamp:** `2025-04-03T21:13:10.000Z`
 - **Event:** Additional network connections were made by `tor.exe` and `firefox.exe` to various remote servers over ports `443` (HTTPS) and other known Tor-related ports, facilitating anonymous browsing sessions.
 - **Action:** Additional network connections established.
-- **Remote Ports:** `443`, `9001`, `9030`, `9040`, `9050`, `9051`, `9150`
 
 ---
 
